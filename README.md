@@ -1,4 +1,4 @@
-# LM<br>
+
 ## Linguistic-Masticator<br><br>
 A machine to chew words<br> 
 The Linguistic Masticator is a software device which 'chews up the words' <br>
